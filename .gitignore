@@ -1,0 +1,45 @@
+# Environments
+venv/
+env/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime Data and Databases
+faq_database.db
+settings.db
+*.sqlite3
+
+# Logs
+*.log
+app.log
+
+# C C++ Extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Temporary output files from user exports
+export_faqs.csv
+export_faqs.json
+export_faqs.xlsx

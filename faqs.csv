@@ -1,0 +1,11 @@
+Question,Answer,Category
+How do I reset my password?,"Click on the 'Forgot Password' link on the login page and follow the instructions sent to your email.",Account
+How do I change my billing address?,"Go to Settings > Billing and update your address details.",Billing
+What payment methods do you accept?,"We accept Visa, MasterCard, American Express, and PayPal.",Billing
+How can I contact technical support?,"You can reach our support team 24/7 by emailing support@example.com.",Technical Support
+Is there a dark mode available?,"Yes! You can toggle dark mode using the theme button in the top right corner.",General
+How do I track my order?,"Once your order ships, you will receive a tracking link via email.",Orders
+Can I cancel my subscription?,"Yes, you can cancel your subscription at any time from your Account Settings.",Account
+Do you offer refunds?,"We offer a 30-day money-back guarantee for all our premium plans.",Billing
+How to export my data?,"You can export your data from the Database Manager in CSV, JSON, or Excel format.",General
+What is the confidence threshold?,"It determines how strict the AI is when matching your question to an FAQ. A higher threshold means it requires a closer match.",Technical Support
